@@ -9,7 +9,7 @@ const Header = ({ activeSection }) => {
   const navItems = ['Projects', 'Details', 'Highlights', 'Contact'];
   const socialIcons = [
     { icon: Instagram, href: 'https://instagram.com/em1r.dev' },
-    { icon: Github, href: 'https://github.com/oxyvadev' },
+    { icon: Github, href: 'https://github.com/emirtahadev' },
     { icon: TwitterX, href: 'https://x.com/oxyvadev' },
   ];
 
