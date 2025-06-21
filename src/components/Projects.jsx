@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, ArrowDown } from 'lucide-react';
 
 const projectData = [
   {
@@ -46,8 +46,8 @@ const Projects = () => {
                 whileTap={{ scale: 0.95 }}
                 className="group flex items-center gap-2 px-6 py-3 bg-primary text-dark font-semibold rounded-md"
               >
-                View project
-                <ArrowRight className="transition-transform duration-300 group-hover:translate-x-1" size={20}/>
+                Continue
+                <ArrowDown className="transition-transform duration-300 group-hover:translate-x-1" size={20}/>
               </motion.button>
             </a>
           </motion.div>
