@@ -6,7 +6,7 @@ const socials = [
     icon: <Instagram size={28} />, label: 'Instagram', href: 'https://instagram.com/em1r.dev', color: '#E1306C',
   },
   {
-    icon: <Github size={28} />, label: 'GitHub', href: 'https://github.com/oxyvadev', color: '#fff',
+    icon: <Github size={28} />, label: 'GitHub', href: 'https://github.com/emirtahadev', color: '#fff',
   },
   {
     icon: <X size={28} />, label: 'X', href: 'https://x.com/oxyvadev', color: '#fff',
