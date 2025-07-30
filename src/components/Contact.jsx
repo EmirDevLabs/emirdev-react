@@ -3,17 +3,17 @@ import { Mail, Instagram, Github, X, Copy } from 'lucide-react';
 
 const socials = [
   {
-    icon: <Instagram size={28} />, label: 'Instagram', href: 'https://instagram.com/em1r.dev', color: '#E1306C',
+    icon: <Instagram size={28} />, label: 'Instagram', href: 'https://instagram.com/emirdevlabs', color: '#E1306C',
   },
   {
-    icon: <Github size={28} />, label: 'GitHub', href: 'https://github.com/emirtahadev', color: '#fff',
+    icon: <Github size={28} />, label: 'GitHub', href: 'https://github.com/EmirDevLabs', color: '#fff',
   },
   {
-    icon: <X size={28} />, label: 'X', href: 'https://x.com/oxyvadev', color: '#fff',
+    icon: <X size={28} />, label: 'X', href: 'https://x.com/EmirDevLabs', color: '#fff',
   },
 ];
 
-const email = 'oxyvadev@gmail.com';
+const email = 'Not Available';
 
 const Contact = () => {
   const [copied, setCopied] = useState(false);

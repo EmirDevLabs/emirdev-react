@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="w-full text-center py-10 mt-16 border-t border-white/10 text-gray-500 text-sm">
       <p>
-        &copy; {new Date().getFullYear()} Emir Taha. All Rights Reserved.
+        &copy; {new Date().getFullYear()} EmirDevLabs. All Rights Reserved.
       </p>
       <p className="mt-2">
         Built with React, Tailwind CSS, and Framer Motion.

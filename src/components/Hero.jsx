@@ -26,7 +26,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-lg md:text-xl font-light tracking-widest uppercase mb-4"
         >
-          Emir Taha
+          EmirDevLabs
         </motion.div>
         
         <div className="text-4xl sm:text-5xl md:text-7xl font-bold tracking-tighter text-center">
